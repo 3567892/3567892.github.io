@@ -1,20 +1,17 @@
 body {
- 
-
     background-color:rgb(246, 243, 193);
     font-family: 'Courier New', monospace;
-    color: #0f0f0c;
-    cursor: url(images/cursor.png);
+    color: #0f0f0c;   
 }
 
-.heart-cursor{
+.heart-cursor {
     width: 200px;
     height: 100px;
     display: flex;
     align-items: center;
     justify-self: center;
-  
 }
+
 nav {
     position: fixed;
     width: 100%;
@@ -164,11 +161,11 @@ section {
  .about-text{
     font-size: 100px;
  }
-.education{
+
+.education {
   
     width: 100%;
-    height: auto;
-   
+    height: auto; 
 }
 
 .edu-text{
@@ -182,10 +179,7 @@ section {
 .about-me-img{
    
         position: relative;
-        display: inline-block;
-      
-        
-    
+        display: inline-block;  
 }
 
 .professional-skills{
@@ -194,12 +188,10 @@ section {
     justify-content: space-around;
     gap: 20px;
     flex-wrap: wrap;
-
 }
 
 .profskills-text{
     font-size: 50px;
- 
 }
 
 .work-exp-text{
