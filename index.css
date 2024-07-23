@@ -213,6 +213,11 @@ section {
     .my-picture {
         max-width: 100%;
     }
+
+    .edu-text{
+        font-size: 10px;
+
+    }
 }
 
 
